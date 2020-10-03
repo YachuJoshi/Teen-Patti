@@ -1,1 +1,1 @@
-## Teen Patti game in Python. Ongoing
+## Teen Patti game in Python.
