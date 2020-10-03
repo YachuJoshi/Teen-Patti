@@ -31,12 +31,3 @@ VALUES = {
     "King": 13,
     "Ace": 14,
 }
-
-SEQUENCE_RANK = {
-    "High Card": 1,
-    "Pair": 2,
-    "Color": 3,
-    "Run": 4,
-    "Straight Flush": 5,
-    "Trail": 6,
-}
